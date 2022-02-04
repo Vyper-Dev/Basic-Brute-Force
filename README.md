@@ -4,10 +4,12 @@ This is a basic brute-force password cracker for educational purposes. As of now
 
 
 Two Characters: 4,761 Combinations
+
 Time to Generate: ~1 Minute
 
 
 
 
 Three Characters: 328,509 Combinations
+
 Time to Generate: ~5 Hours 
