@@ -8,5 +8,6 @@ Time to Generate: ~1 Minute
 
 
 
+
 Three Characters: 328,509 Combinations
 Time to Generate: ~5 Hours 
